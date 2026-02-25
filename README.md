@@ -111,7 +111,7 @@ curl -X POST http://localhost:<PORT>/api/webhook \
 ## Пример использования
 
 ```bash
-curl -X POST http://localhost:3000/api/webhook \
+curl -X POST http://localhost:3801/api/webhook \
   -H "Content-Type: application/json" \
   -d '{
     "vid": 432176649,
